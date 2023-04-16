@@ -13,6 +13,8 @@ int main() {
 
     printf("src: %s\n", sendBuf);
     //printf("dest: %s\n", dest);
+	
+	printf("\n");
 
     return 0;
 }
