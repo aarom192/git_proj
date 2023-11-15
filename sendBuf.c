@@ -9,6 +9,7 @@ int main() {
 	sendBuf += strlen(sendBuf);
 	*sendBuf++=',';
 	*sendBuf++=0;
+    printf("\n");
   
 
     printf("src: %s\n", sendBuf);
