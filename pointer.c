@@ -15,6 +15,7 @@ int main() {
 	printf("pointer的值: %d\n", *pointer);
     printf("變數b的值: %d\n", b);
 	printf("變數pointer的地址: %p\n", &pointer);
+    printf();
 
     return 0;
 }
