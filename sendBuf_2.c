@@ -22,6 +22,7 @@ int main() {
     printf("\n");
     printf("\n");
     printf("Test\n");
+    printf("Test\n");
 
     return 0;
 }
