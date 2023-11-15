@@ -11,6 +11,7 @@ int main() {
 	*sendBuf++=0;
     printf("\n");
     printf("\n");
+    printf("Test\n");
   
 
     printf("src: %s\n", sendBuf);
